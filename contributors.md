@@ -1,1 +1,12 @@
-rajini panasa
+# Contributors
+- hemu
+- Charan 
+- Akshaya
+- Haribabu
+- Lavanya
+- Neelima
+- Vimala
+- VasanthiT
+- BangCodes 
+- Thanmai
+- Rajini Panasa
